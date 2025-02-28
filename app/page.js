@@ -2,7 +2,7 @@ export default function Home() {
   return (
     <main>
       <h1 style={{ color: 'white', textAlign: 'center' }}>
-        Time to get started!
+        Home Page
       </h1>
     </main>
   );
